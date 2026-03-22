@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Resolved TODO items from previous session
 - Reviewed security headers configuration
+
+## 2026-03-23
+- Improved error handling in edge cases
+- Added basic usage examples to README
